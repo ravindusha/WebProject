@@ -1,0 +1,9 @@
+input[type=submit].loginbtn,input[type=submit].changebtn{
+	padding: 10px 30px;
+	border-radius: 5px;
+	background-color: #ea7b7e;
+	font-family: Calibri;
+	font-size: 16px;
+	color: white;
+	cursor: pointer;
+}

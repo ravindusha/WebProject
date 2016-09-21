@@ -1,0 +1,27 @@
+.item{
+	width: 960px;
+	min-height: 300px;
+}
+.itemimage{
+	float: left;
+	margin-right: 20px;
+}
+.iteminfo a{
+	font-family: Calibri;
+	font-size: 20px;
+	text-decoration: none;
+	padding: 5px;
+	display: inline-block;
+	background-color: #C0392B;
+	color: white;
+	border-radius: 5px;
+}
+.bold{
+	font-weight: bold;
+}
+.iteminfo{
+	font-size: 12px;
+}
+.largetext{
+	font-size: 16px;
+}

@@ -1,0 +1,26 @@
+table.addnewtable{
+	border-collapse: collapse;
+	border: 2px solid #ea7b7e;
+	padding: 40px;
+	border-radius: 10px;
+}
+table.addnewtable td{
+	padding: 10px;
+	padding-top: 20px;
+	vertical-align: top;
+}
+input[type=submit],input[type=reset]{
+	padding: 5px 30px;
+	border-radius: 10px;
+	font-family: Calibri;
+	font-size: 18px;
+	cursor: pointer;
+}
+input[type=text],textarea,input[type=number],select{
+	font-family: Calibri;
+	font-size: 14px;
+	border-radius: 7px;
+}
+table.addnewtable td.label{
+	font-weight: bold;
+}
